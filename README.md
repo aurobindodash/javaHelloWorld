@@ -1,2 +1,3 @@
-# javaHelloWorld
-Java Repository
+# maven-project
+
+Simple Maven Project
